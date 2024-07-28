@@ -9,6 +9,19 @@ You can view the live application [here](https://semi-netlify-517d375beb38.herok
 
 This project is an E-commerce platform that provides a comprehensive API for managing products, categories, orders, and order items. Built using Django and Django REST framework, this site allows for efficient management of an online store.
 
+## Features
+
+- User authentication and management
+- Product catalogue with filtering options
+- Order processing and management
+- Responsive design for mobile and desktop
+
+## Technologies Used
+
+- Django
+- Django REST Framework
+- Heroku for deployment
+- PostgreSQL for the database
 
 ## API Endpoints
 
