@@ -36,6 +36,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 **Contributing:**
+
 Feel free to contribute to this project by creating a pull request. Please ensure to follow the contribution guidelines.
 
 **License**
@@ -44,7 +45,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 
-### Next Steps
+## Next Steps
 
 1. Copy the suggested description into your `README.md` file.
 2. Adjust any sections as needed to fit your project's specifics.
