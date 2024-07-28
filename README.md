@@ -37,4 +37,18 @@ python manage.py runserver
 
 Contributing
 Feel free to contribute to this project by creating a pull request. Please ensure to follow the contribution guidelines.
+```
+**License**
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
+### Next Steps
+
+1. Copy the suggested description into your `README.md` file.
+2. Adjust any sections as needed to fit your project's specifics.
+3. Commit the changes and push them to your repository.
+
+Let me know if you need further assistance!
 
