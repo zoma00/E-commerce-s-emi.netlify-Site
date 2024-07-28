@@ -2,7 +2,13 @@
 
 # Welcome to the E-commerce s-emi.netlify Site
 
+
+## Live Demo
+
+You can view the live application [here](https://semi-netlify-517d375beb38.herokuapp.com/).
+
 This project is an E-commerce platform that provides a comprehensive API for managing products, categories, orders, and order items. Built using Django and Django REST framework, this site allows for efficient management of an online store.
+
 
 ## API Endpoints
 
