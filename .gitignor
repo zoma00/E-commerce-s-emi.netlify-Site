@@ -1,0 +1,8 @@
+django_admin_logs.log
+
+**/__pychache__/
+
+products/migrations/
+
+.venv/
+

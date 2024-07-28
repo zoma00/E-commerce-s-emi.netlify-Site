@@ -1,0 +1,84 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to s-emi.netlify API Endpoints</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background: aliceblue;
+            background-color: aliceblue;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+          }
+        .beautiful-font {
+            font-family: 'Roboto', sans-serif;
+            font-size: 3em;
+            color: blueviolet;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+        }
+
+        h1 {
+            color: blue; 
+        }
+        h2 {
+            color: blue;
+        }
+        ul strong {
+            color: blue;
+        }
+        em {
+            color: red;
+        }
+
+
+    </style>
+</head>
+<body>
+
+<div>  
+    <h1>Welcome to the E-commerce s-emi.netlify Site</h1>
+    <h2>API Endpoints</h2>
+   
+
+    <div class="api-descriptions">
+         <ul>
+             <li><strong><a href="https://semi-netlify-517d375beb38.herokuapp.com/api/" target="_blank"> REST framework API Root </a></strong></li>
+        </ul>
+
+
+
+        <ul>
+            <li>
+                <strong>Product API</strong><br>
+                <em>Endpoint:</em> <code>/api/Product/</code><br>
+                <em>Description:</em> Access a comprehensive list of products available in the store. This API allows you to retrieve product details, including names, prices, descriptions, and availability, making it easy to showcase your offerings.
+            </li>
+            <li>
+                <strong>Category API</strong><br>
+                <em>Endpoint:</em> <code>/api/Category/</code><br>
+                <em>Description:</em> Retrieve a list of product categories to help users navigate through the store. This API provides information on various categories, enabling efficient organization and filtering of products.
+            </li>
+            <li>
+                <strong>Order API</strong><br>
+                <em>Endpoint:</em> <code>/api/Order/</code><br>
+                <em>Description:</em> Manage customer orders with this API. You can create, retrieve, and update orders, providing essential functionality for processing purchases and tracking order statuses.
+            </li>
+            <li>
+                <strong>OrderItem API</strong><br>
+                <em>Endpoint:</em> <code>/api/OrderItem/</code><br>
+                <em>Description:</em> Access detailed information about items within customer orders. This API allows you to view and manage individual items associated with each order, facilitating better inventory and order management.
+            </li>
+        </ul>
+    </div>
+</div>
+
+</body>
+</html>
